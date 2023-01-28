@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=gnome-reminder
+Exec=gnome-reminder
+Icon=com.example.GnomeReminder
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

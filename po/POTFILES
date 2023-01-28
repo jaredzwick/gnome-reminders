@@ -1,0 +1,6 @@
+data/com.example.GnomeReminder.desktop.in
+data/com.example.GnomeReminder.appdata.xml.in
+data/com.example.GnomeReminder.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
